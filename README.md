@@ -14,4 +14,4 @@ https://travis1308.github.io/run-buddy/
 
 Made with ❤️ by Travis
 
-### &copy 2019 Run Buddy, Inc
+### ©️2019 Run Buddy, Inc
