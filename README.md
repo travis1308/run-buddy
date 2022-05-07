@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://travis.github.io/run-buddy/
+https://travis1308.github.io/run-buddy/
 
 ## Contribution
 
