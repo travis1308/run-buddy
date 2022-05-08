@@ -206,7 +206,11 @@ section {
 }
 
 .step-img img {
-    max-width: 25%;
+    max-width: 100%;
+}
+
+.step-text {
+    flex: 12;
 }
 
 .step-text p {
